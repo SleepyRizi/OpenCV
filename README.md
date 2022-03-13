@@ -1,2 +1,0 @@
-# OpenCV
-Computer Vision Notebooks
